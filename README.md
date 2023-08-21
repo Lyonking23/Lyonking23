@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é Thiago Silvério, estou cursando Análese é desenvolvimento de sistemas na UNIFAA
+- 👋 Olá meu nome é Thiago Silvério, estou cursando Análise é desenvolvimento de sistemas na UNIFAA
 - 👀 Gostoo de progamar mais ainda estou no começo
 - 🌱 Tenho poucos passatempos mais eu gosto de jogar é ver séries
 - Atualmente trabalho na Nissan como operador de produção
